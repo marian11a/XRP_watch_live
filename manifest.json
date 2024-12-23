@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "YouTube Video Player",
+    "description": "Watch a specific YouTube video in a Chrome extension.",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": []
+  }
+  
